@@ -5,17 +5,18 @@ Gregory Arcara
 
 > Senior Software Engineer
 
-> Specialties: C#, Node.js, Golang, Containers, Bash, SQL
+> Specializing in: Web Applications, C#, Node.js, Golang, Containers, Bash, SQL
 
 ---------------------------------------------------
 
 Corporate Experience
+
 --------------------
 
 2017
 :   *Contractor at [Microsoft](https://www.microsoft.com)* (Redmond, WA).
 
-    Worked for [Microsoft Azure's](https://azure.microsoft.com/) CAT (Customer Advisory Team).
+    Worked for [Microsoft Azure's](https://azure.microsoft.com/) CAT (Customer Advisory Team). A team dedicated to working with customers and building new solutions. We share our discoveries with our customers and product teams to help improve development practices on and with Microsoft Azure.
 
     * Wrote tests to validate Azure Stack builds perfomance.
     * Managed CI/CD using Jenkins/Concourse-CI, Vault, Packer, and Consul.
