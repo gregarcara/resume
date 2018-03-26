@@ -9,9 +9,8 @@ Gregory Arcara
 
 ---------------------------------------------------
 
-Corporate Experience
+### Corporate Experience
 
---------------------
 
 2017
 :   *Contractor at [Microsoft](https://www.microsoft.com)* (Redmond, WA).
@@ -54,8 +53,7 @@ Corporate Experience
     the production of wire bundles for the Boeing 787, Airbus A350 and many other
     aerospace programs.
 
-Open Source Contributions
--------------------------
+### Open Source Contributions
 
 Golang
 :   Contributor to [Concourse](http://concourse-ci.org/), a CI/CD server which runs steps of it’s pipeline in containers.
