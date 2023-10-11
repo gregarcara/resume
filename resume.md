@@ -14,7 +14,7 @@ Gregory Arcara
 2021-2022
 :   *Software Developer/Contractor for [Senior Place](https://www.seniorplace.io/)* (Remote)
 
-    Worked on all aspects of a web application for managing assisted living placements.
+    Worked on all aspects of a multi-tenant web application for managing assisted living placements.
 
     * Front-end React web interface
     * Typescript Restful back-end (and converting to GraphQL)
@@ -94,7 +94,7 @@ Gregory Arcara
   Developing a web application to track student progress and report feedback to the student and/or parent/guardians.
 
   * Inspired by a need for local ice skating instructors to keep in touch with parents of young students. (To relay progress and/or personal notes).
-  * Using to the project to advance my knowledge in Elixir, Phoenix, LiveView, and Alpine.
+  * Using the project to advance my knowledge in Elixir, Phoenix, LiveView, and Alpine.
   * Supports Multi-Tenancy.
 
 -------
