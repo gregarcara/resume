@@ -18,7 +18,6 @@ Hands-on engineer and architect with 15+ years of experience spanning applicatio
 * **DevOps & IaC:** Terraform, Azure DevOps Pipelines, GitHub Actions, Jenkins, Concourse CI, Helm  
 * **Security & Governance:** WAF (Azure/Imperva), Identity & Access Management, Code/Dependency Scanning, Secret Management  
 * **Programming & Frameworks:** Node.js, Golang, C#, SQL, Typescript, PHP (Laravel), Elixir/Phoenix, React  
-* **IoT & Data:** Azure IoT Hub, DPS, IoT Edge, Telemetry Pipelines, ADLS, ADF, Databricks, Synapse  
 
 ---------------------------------------------------
 
@@ -35,7 +34,7 @@ Hands-on engineer and architect with 15+ years of experience spanning applicatio
     * Built and maintained Terraform modules and Azure DevOps pipelines (with Workload Identity Federation) to support secure multi-tenant automation.  
     * Enforced governance and security controls using Azure Firewall Premium and private endpoint networking.  
     * Established security readiness for bug bounty program enrollment through dependency/code scanning, secret scanning, WAF deployments, and vulnerability assessments.  
-    * Architected IoT Hub solutions for tens of thousands of devices, enabling secure onboarding via DPS and scalable telemetry ingestion into medallion data lake pipelines (ADLS, ADF, Databricks, Synapse).  
+    * Architected IoT Hub solutions for tens of thousands of devices, enabling secure onboarding via DPS and scalable telemetry ingestion into medallion data lake pipelines.  
 
 2021–2022  
 :   *Software Developer/Contractor for [Senior Place](https://www.seniorplace.io/)* (Remote)  
@@ -49,7 +48,7 @@ Hands-on engineer and architect with 15+ years of experience spanning applicatio
     * Automated CI/CD with GitHub Actions  
     * Integrated AWS services for queues and email  
 
-2020–2021  
+2021  
 :   *Software Developer for [Starline Industries](https://www.starline.com/)* (Buffalo, NY)  
 
     Contributed to intranet ERP system, customer-facing website, and custom SaaS solution for managing promotional products using PHP and Laravel.  
