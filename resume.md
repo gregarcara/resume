@@ -3,102 +3,111 @@ Gregory Arcara
 
 ---------------------------------------------------
 
-> Senior Software Engineer
+Senior Software Engineer / Cloud & DevOps Specialist  
+Specializing in: Azure, Terraform, DevOps, Networking, CI/CD, Containers, Kubernetes, Node.js, Golang, C#, SQL, AWS  
 
-> Specializing in: Web Applications, C#, Node.js, Golang, Containers, Bash, SQL, PHP, Typescript, Elixir, AWS, Azure
+---------------------------------------------------
+
+### Summary
+
+Hands-on engineer and architect with 15+ years of experience spanning application development, DevOps, and cloud infrastructure. Recognized as a DevOps Subject Matter Expert with a proven record in Azure Landing Zones, Terraform automation, and secure multi-tenant architectures. Adept at leading teams, standardizing practices, and delivering solutions that scale from enterprise ERP to IoT ecosystems supporting tens of thousands of devices.  
+
+### Key Skills
+
+* **Cloud & Infrastructure:** Azure Landing Zones (ALZ/AVM), vWAN, Firewall, Private Endpoints, AWS Services  
+* **DevOps & IaC:** Terraform, Azure DevOps Pipelines, GitHub Actions, Jenkins, Concourse CI, Helm  
+* **Security & Governance:** WAF (Azure/Imperva), Identity & Access Management, Code/Dependency Scanning, Secret Management  
+* **Programming & Frameworks:** Node.js, Golang, C#, SQL, Typescript, PHP (Laravel), Elixir/Phoenix, React  
+* **IoT & Data:** Azure IoT Hub, DPS, IoT Edge, Telemetry Pipelines, ADLS, ADF, Databricks, Synapse  
 
 ---------------------------------------------------
 
 ### Professional Experience
 
-2021-2022
-:   *Software Developer/Contractor for [Senior Place](https://www.seniorplace.io/)* (Remote)
+2023–Present  
+:   *Cloud & DevOps Consultant for [Netrio](https://www.netrio.com/)* (Remote)  
 
-    Worked on all aspects of a multi-tenant web application for managing assisted living placements.
+    Leading infrastructure modernization and DevOps initiatives for global manufacturing and IoT solutions.  
 
-    * Front-end React web interface
-    * Typescript Restful back-end (and converting to GraphQL)
-    * Service for importing and maintaining data from states
-    * CloudFormation templates for service creation
-    * CI/CD with GitHub actions
-    * AWS service integration for queues/email
+    * Serve as **Solutions Architect** and **DevOps Subject Matter Expert**, guiding cross-functional teams on Azure infrastructure and DevOps practices.  
+    * Standardized e-commerce website infrastructure with Terraform and unified code deployment workflows with Azure DevOps pipelines, improving consistency and reducing manual errors.  
+    * Designed and implemented Azure Landing Zones (ALZ/AVM) with secure hub-and-spoke and vWAN architectures.  
+    * Built and maintained Terraform modules and Azure DevOps pipelines (with Workload Identity Federation) to support secure multi-tenant automation.  
+    * Enforced governance and security controls using Azure Firewall Premium and private endpoint networking.  
+    * Established security readiness for bug bounty program enrollment through dependency/code scanning, secret scanning, WAF deployments, and vulnerability assessments.  
+    * Architected IoT Hub solutions for tens of thousands of devices, enabling secure onboarding via DPS and scalable telemetry ingestion into medallion data lake pipelines (ADLS, ADF, Databricks, Synapse).  
 
-2020-2021
-:   *Software Developer for [Starline Industries](https://www.starline.com/)* (Buffalo, NY).
+2021–2022  
+:   *Software Developer/Contractor for [Senior Place](https://www.seniorplace.io/)* (Remote)  
 
-    Developer on an intranet Enterprise Resource Planning system, customer facing website, and
-    custom Sass solution for selling and managing promotional products using PHP and laravel.
+    Built a multi-tenant web application for managing assisted living placements.  
 
-2018-2021
-:   *Software Developer/Contractor for [Providence](https://www.providence.org/)* (Remote)
+    * Developed front-end React interface  
+    * Implemented Typescript RESTful back-end (migrating to GraphQL)  
+    * Created services for importing and maintaining state data  
+    * Authored CloudFormation templates for service creation  
+    * Automated CI/CD with GitHub Actions  
+    * Integrated AWS services for queues and email  
 
-    Worked on a solution for remote visits with healthcare professionals to serve people who had non-emergency needs.
+2020–2021  
+:   *Software Developer for [Starline Industries](https://www.starline.com/)* (Buffalo, NY)  
 
-    * Worked developing services running in Kubernetes and writing Helm charts.
-    * Worked on a Restful API.
-    * Developed Kubernetes sidecar for managing configuration in services.
-    * Wrote code to interact with AWS SQS and RDS.
+    Contributed to intranet ERP system, customer-facing website, and custom SaaS solution for managing promotional products using PHP and Laravel.  
 
-2018
-:   *Software Developer/Contractor for NICCSS - Network of Inner City Community Services Society (Non-profit)* (Remote)
+2018–2021  
+:   *Software Developer/Contractor for [Providence](https://www.providence.org/)* (Remote)  
 
-    * Worked with client to develop specifications
-    * Wrote a full internal web application for managing customer applications and loans.
-    * Customer facing application for loan services.
+    Delivered solutions for remote visits with healthcare professionals.  
 
-2017
-:   *Contractor at [Microsoft](https://www.microsoft.com)* (Redmond, WA).
+    * Deployed services to Kubernetes using Helm charts  
+    * Developed RESTful APIs  
+    * Built Kubernetes sidecar for dynamic configuration management  
+    * Integrated AWS SQS and RDS into production workflows  
 
-    Worked for [Microsoft Azure's](https://azure.microsoft.com/) CAT (Customer Advisory Team). A team dedicated to working with customers and building new solutions. We share our discoveries with our customers and product teams to help improve development practices on and with Microsoft Azure.
+2018  
+:   *Software Developer/Contractor for NICCSS – Network of Inner City Community Services Society (Non-profit)* (Remote)  
 
-    * Wrote tests to validate Azure Stack builds performance.
-    * Managed CI/CD using Jenkins/Concourse-CI, Vault, Packer, and Consul.
-    * Developed software to benchmark Big Data solutions.
-    * Deploy and managed Kubernetes clusters in Azure.
+    * Collaborated with client to develop specifications  
+    * Built full internal web application for managing customer applications and loans  
+    * Delivered customer-facing application for loan services  
 
-2015-2017
-:   *Senior Software Engineer for [HPE/SUSE Enterprise](https://www.suse.com/)* (Seattle, WA).
+2017  
+:   *Contractor at [Microsoft](https://www.microsoft.com) – Azure CAT Team* (Redmond, WA)  
 
-    Developed a CI/CD system (Helion Code-Engine) to deploy developer applications
-    to Helion Cloud Foundry.
+    Partnered with Azure’s Customer Advisory Team to deliver customer-facing solutions and improve Azure services.  
 
-    * Worked on all aspects of the product including a REST API for managing
-    projects and pipelines.
-    * Built Concourse CI resources and tasks for build/test/deploy/notifications in
-    CI/CD process.
-    * Built MySQL and Concourse CI docker images to run as HA services in Kubernetes
+    * Validated Azure Stack builds through performance testing  
+    * Managed CI/CD with Jenkins, Concourse, Vault, and Packer  
+    * Developed benchmarking software for Big Data solutions  
+    * Deployed and managed Kubernetes clusters in Azure  
+    * Shared discoveries with Azure product teams to enhance development practices  
 
-2013-2015
-:   *Software Developer for [Starline Industries](https://www.starline.com/)* (Buffalo, NY).
+2015–2017  
+:   *Senior Software Engineer for [HPE/SUSE Enterprise](https://www.suse.com/)* (Seattle, WA)  
 
-    Lead developer on an intranet Enterprise Resource Planning system, customer
-    facing sales website, and a site to help define and share a common interface between
-    businesses in the promotional product industry.
+    Built the Helion Code-Engine CI/CD system for deploying applications to Helion Cloud Foundry.  
 
-    * Created a layer to allow a common interface to view and print Crystal Reports
-    and XtraReports.
-    * Created a system for scheduling tasks such as emailing reports.
+    * Developed REST API for managing projects and pipelines  
+    * Created Concourse CI resources and tasks for build/test/deploy/notifications  
+    * Built HA Kubernetes services with MySQL and Concourse CI Docker images  
 
-2006-2013
-:   *Software Developer for [Safran](https://www.safran-electrical-power.com/)* (Everett, WA).
+2013–2015  
+:   *Software Developer for [Starline Industries](https://www.starline.com/)* (Buffalo, NY)  
 
-    * Created an internal web application used to manage 2D wire bundle drawings, including revisioning and file storage.
-    * Was the first developer on the team responsible for designing and creating internal web applications to manage the design, manufacturing, and life-cycle of wire bundles for aerospace manufacturers, used for the production of wire bundles by the Boeing 787, Airbus A350 and many other aerospace programs.
-    * Responsible for a team that grew from 1 (myself) to 9+ developers across multiple countries.
+    Lead developer on ERP, customer-facing sales website, and industry integration platform.  
 
-### Personal Experience
+    * Created a unified interface for viewing and printing Crystal Reports and XtraReports  
+    * Built a task scheduling system for automated report distribution  
 
-2023
-: *Skillful* (Working title)
+2006–2013  
+:   *Software Developer for [Safran](https://www.safran-electrical-power.com/)* (Everett, WA)  
 
-  Developing a web application to track student progress and report feedback to the student and/or parent/guardians.
+    * Created internal applications to manage 2D wire bundle drawings, including revisioning and file storage  
+    * Designed and developed lifecycle management applications used in production of wire bundles for the **Boeing 787**, **Airbus A350**, and other major aerospace programs  
+    * Scaled team from 1 (self) to 9+ developers across multiple countries, leading technical direction and delivery  
 
-  * Inspired by a need for local ice skating instructors to keep in touch with parents of young students. (To relay progress and/or personal notes).
-  * Using the project to advance my knowledge in Elixir, Phoenix, LiveView, and Alpine.
-  * Supports Multi-Tenancy.
+---------------------------------------------------
 
--------
+<greg.arcara@gmail.com> • (716) 628-8284 • <https://github.com/gregarcara/>  
+7632 Arnold Dr. North Tonawanda, NY 14120  
 
-> <greg.arcara@gmail.com> • (716) 628-8284 • <https://github.com/gregarcara/>
-
-> 7632 Arnold Dr. North Tonawanda, NY 14120
